@@ -1,4 +1,9 @@
-### Hi there 👋
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Choi%20sunah&fontSize=90&animation=fadeIn&fontAlignY=40)
+
+### <div align="center"> Hello! </div>
+
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&fontSize=90&animation=fadeIn)
 
 <!--
 **CSN-ah22/CSN-ah22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
