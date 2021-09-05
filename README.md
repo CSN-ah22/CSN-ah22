@@ -3,7 +3,7 @@
 
 ### <div align="center"> 👋Hello! </br> I'm SunAh Choi, a junior back-end developer 🌱 </br> Daily routine |🏫 school-class | 👩‍💻study | 🤸‍♀️ adventure </br></br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCSN-ah22&count_bg=%238FC4ED&title_bg=%23AAAAAA&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</br></br></div>
 
-![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=230&section=footer&fontSize=90&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=210&section=footer&fontSize=90&animation=fadeIn)
 
 <!--
 **CSN-ah22/CSN-ah22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
