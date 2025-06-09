@@ -1,7 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=240&section=header&text=SunAh%20Choi&fontSize=70&animation=fadeIn&fontAlignY=30)
 
-### <div align="center"> 👋Hello! </br> I'm SunAh Choi, a junior Front-end developer 🌱 </br>  </br></br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCSN-ah22&count_bg=%238FC4ED&title_bg=%23AAAAAA&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)</br></br></div>
+### <div align="center"> 👋Hello! </br> I'm SunAh Choi, a developer 🌱 </br>  </br></br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FCSN-ah22&count_bg=%238FC4ED&title_bg=%23AAAAAA&icon=github.svg&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://github.com/CSN-ah22)</br></br></div>
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=210&section=footer&fontSize=90&animation=fadeIn)
 
